@@ -1,2 +1,2 @@
 # Introduccion-GIT
-Repositorio a la introduccion a GIT
+Repositorio de la introduccion a GIT
